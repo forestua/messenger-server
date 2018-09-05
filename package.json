@@ -1,0 +1,23 @@
+{
+  "name": "messenger-node",
+  "version": "1.0.0",
+  "description": "An electron-based node.js messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forestua/messenger-server.git"
+  },
+  "author": "RDK, forestua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forestua/messenger-server/issues"
+  },
+  "homepage": "https://github.com/forestua/messenger-server#readme",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  }
+}
